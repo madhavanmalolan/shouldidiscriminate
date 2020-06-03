@@ -1,0 +1,16 @@
+export default [
+    { title: "Not at all!", text: "Being a good person does not depend on your religion, status in life, race, skin color, political views or culture. It depends on how you treat others", author: ""},
+    { title: "Absolutely not!", text: "Injustice anywhere is a threat to justice everywhere.", author: "Martin Luther King Jr"},
+    { title: "Nope. No question.", text: "Hating people because of their color is wrong. And it doesn't matter which color does the hating. It's just plain wrong.", author: "Muhammad Ali"},
+    { title: "Negative.", text: "The only classification to be made out of humans should be based on character and nothing but the character.", author: "Abhijit Naskar"},
+    { title: "Don't even bother.", text: "No human race is superior; no religious faith is inferior. All collective judgments are wrong. Only racists make them", author: "Elie Wiesel"},
+    { title: "Not at all!", text: "Equal rights for others does not mean less rights for you. It’s not pie.", author: ""},
+    { title: "Don't. Please don't!", text: "Underneath all the skin, we're all the same", author: "Steve Guttenberg"},
+    { title: "Never", text: "Discrimination is a disease", author: "Roger Staubach"},
+    { title: "By no means!", text: "Reducing a group to a slur or stereotype reduces us all.  ", author: "DaShanne Stokes"},
+    { title: "Under no circumstance", text: "At the end of the game, the king and the pawn go back in the same box.", author: "David Isenberg"},
+    { title: "No!", text: "When you introduce discrimination of any kind, it's anti-innovative.", author: ""},
+    { title: "No!", text: "Look at the sky and count the stars, look down and realize we are all from the same universe and stop discrimination", author: "Bangambiki Habyarimana"},
+    { title: "No!", text: "a white has no superiority over black, nor a black has any superiority over white", author: "Prophet Muhammad"},
+    { title: "No!", text: "All human beings are born free and equal in dignity and rights.", author: "Eleanor Roosevelt"},
+]
