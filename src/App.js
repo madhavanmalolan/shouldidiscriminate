@@ -122,7 +122,7 @@ export default function App() {
   const initializeCamera = () => {
     setCameraValue("initializing");
     try{
-      navigator.mediaDevices.getUserMedia({ video: true, audio: false, facingMode: 'environment' }).then((stream) => {
+      navigator.mediaDevices.getUserMedia({ video: { facingMode: 'environment' }, audio: false,  }).then((stream) => {
           videoElement.current.srcObject = stream;
           
           setCameraValue("initialized")
